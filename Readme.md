@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO CARD -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=header"/>
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=header](https://media.licdn.com/dms/image/v2/D5616AQHHBZo2e6Rlqw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735106850661?e=1782950400&v=beta&t=kC_LzBUz5_AzSTLvEHoHeV8Odc83Hqekj2kMIHfP2M8)"/>
 
 <br/>
 
