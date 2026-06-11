@@ -1,18 +1,3 @@
-<div align="center">
-<!-- HERO CARD -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=header"/>
-<br/>
-
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║         Mohammed Saad  ·  @imohammedsaad             ║
-║         Backend Engineer  ·  DevSecOps               ║
-║         Siemens Healthineers  ·  Bengaluru            ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=4FFFB0&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Docker+%7C+DevSecOps+%7C+SW360;Building+secure+software+supply+chains;Technical+Intern+%40+Siemens+Healthineers)](https://git.io/typing-svg)
