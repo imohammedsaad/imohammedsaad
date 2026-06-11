@@ -11,7 +11,7 @@ Building scalable backend systems, secure software pipelines, and cloud-native a
 
 🎓 B.Tech Computer Science Student
 
-💼 DevSecOps Intern at Siemens Healthineers
+💼 Technical Intern at Siemens Healthineers
 
 🔭 Currently working on:
 - Spring Boot Backend Applications
@@ -21,7 +21,7 @@ Building scalable backend systems, secure software pipelines, and cloud-native a
 
 🌱 Currently learning:
 - Spring Security
-- Cloud Platforms (AWS/Azure)
+- Cloud Platform (AWS)
 - Kubernetes
 - CI/CD Pipelines
 - DevSecOps Practices
