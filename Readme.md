@@ -1,10 +1,9 @@
 <div align="center">
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=4FFFB0&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Docker+%7C+DevSecOps+%7C+SW360;Building+secure+software+supply+chains;Technical+Intern+%40+Siemens+Healthineers)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=10000&color=4FFFB0&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Docker+%7C+DevSecOps+%7C+SW360;Building+secure+software+supply+chains;Technical+Intern+%40+Siemens+Healthineers)](https://git.io/typing-svg)
 
 </div>
----
 
 <!-- ═══════════════════════════════════════════════ -->
 <!--                  IDENTITY CARD                  -->
